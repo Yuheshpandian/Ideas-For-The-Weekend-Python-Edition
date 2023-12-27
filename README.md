@@ -28,7 +28,7 @@ The primary goal of the **"Ideas for the Weekend - Python Edition"** repository 
 
 ## 📜 License
 
-This repository is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). Feel free to use, modify, and distribute the code as you see fit. See the [LICENSE](LICENSE.md) file for more details.
+This repository is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). Feel free to use, modify, and distribute the code as you see fit. See the [LICENSE](LICENSE) file for more details.
 
 ## 🤝 Contibution
 
