@@ -29,6 +29,13 @@ Thank you for considering contributing to the "Ideas for the Weekend - Python Ed
    ```
 6. Open a pull request on the original repository. Be sure to include a clear title and description of your contribution.
 
+## What my Contribution should look like
+
+- Make sure if you're adding a new idea it is within the Ideas folder.
+- It should have its own folder with the idea as title
+- The idea should be detailed in the README.md of that folder.
+  
+
 ## Guidelines for Contribution
 - Ensure that your contribution aligns with the goal of the repository.
 - Provide a clear and concise title and description for your project idea.
