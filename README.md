@@ -6,6 +6,8 @@ Welcome to _"Ideas for the Weekend - Python Edition"_ repository! Here, you'll f
 
 ## What's Our Goal
 
+<!-- To create a learning platform of python in your comfort zone.-->
+
 The primary goal of the **"Ideas for the Weekend - Python Edition"** repository is to provide a curated collection of `Python project` ideas that inspire and empower developers to spend their weekends honing their skills and building something meaningful. The repository aims to:
 
 1. 🎨 Inspire Creativity: Spark _creativity and innovation_ by offering a diverse range of Python project ideas across different domains and skill levels.
@@ -27,10 +29,13 @@ The primary goal of the **"Ideas for the Weekend - Python Edition"** repository 
 ---
 
 ## 📜 License
+<!--This Licensing shows that this repo is open-source-->
 
 This repository is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). Feel free to use, modify, and distribute the code as you see fit. See the [LICENSE](LICENSE) file for more details.
 
 ## 🤝 Contibution
+
+<!--Contributions are welcomed, feel free to contribute.-->
 
 Contributions are welcome! If you have a cool Python project idea, please submit a pull request with your addition. Be sure to follow the contribution guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
