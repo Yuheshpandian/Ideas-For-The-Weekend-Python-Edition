@@ -23,8 +23,10 @@ The primary goal of the **"Ideas for the Weekend - Python Edition"** repository 
 
 <!-- Here # is the index no, Idea column should have the idea title with link to the idea folder in Ideas folder of this Repository, Category column has the category of idea/projets like web, cli, ai etc...-->
 
-| # | Idea | Category | 
-|:---|:---:|---:|
+| # | Idea | Category | Source |
+|:---|:---|---:|---:|
+
+<!--Idea should have the project idea, Category should have the category of the project(eg cli, web, etc), Source should have the source/reference link to build it-->
 
 ---
 
