@@ -10,13 +10,13 @@ Welcome to _"Ideas for the Weekend - Python Edition"_ repository! Here, you'll f
 
 The primary goal of the **"Ideas for the Weekend - Python Edition"** repository is to provide a curated collection of `Python project` ideas that inspire and empower developers to spend their weekends honing their skills and building something meaningful. The repository aims to:
 
-1. 🎨 Inspire Creativity: Spark _creativity and innovation_ by offering a diverse range of Python project ideas across different domains and skill levels.
+1. 🎨 **Inspire Creativity**: Spark _creativity and innovation_ by offering a diverse range of Python project ideas across different domains and skill levels.
 
-2. 📖 Facilitate Learning: Provide opportunities for learning and skill development in Python programming through practical, hands-on projects.
+2. 📖 **Facilitate Learning**: Provide opportunities for learning and skill development in Python programming through practical, hands-on projects.
 
-3. 🧑‍🤝‍🧑 Encourage Collaboration: Foster a sense of _community_ by welcoming contributions and collaboration from developers worldwide. This repository thrives on the collective knowledge and creativity of its contributors.
+3. 🧑‍🤝‍🧑 **Encourage Collaboration**: Foster a sense of _community_ by welcoming contributions and collaboration from developers worldwide. This repository thrives on the collective knowledge and creativity of its contributors.
 
-4. 🎉 Promote Fun and Engagement: Make coding enjoyable and engaging by presenting projects that are not only educational but also fun to work on. Whether you're a beginner or an experienced developer, there's something exciting for everyone.
+4. 🎉 **Promote Fun and Engagement**: Make coding enjoyable and engaging by presenting projects that are not only educational but also fun to work on. Whether you're a beginner or an experienced developer, there's something exciting for everyone.
 
 ---
 ## Fascinating Project Ideas
