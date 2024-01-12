@@ -23,8 +23,9 @@ The primary goal of the **"Ideas for the Weekend - Python Edition"** repository 
 
 <!-- Here # is the index no, Idea column should have the idea title with link to the idea folder in Ideas folder of this Repository, Category column has the category of idea/projets like web, cli, ai etc...-->
 
-| # | Idea | Category | Source |
-|:---|:---|---:|---:|
+| # | Idea | Description | Category | Source | Difficulty |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | Unit Convertor | A python script to convert mathematical units into another one within fraction of seconds, as no one likes to do those . This might either be terminal based application or a GUI based application.  | Script | [Youtube Video](https://youtu.be/jtM9RLAENVE?feature=shared) | 🟢 |
 
 <!--Idea should have the project idea, Category should have the category of the project(eg cli, web, etc), Source should have the source/reference link to build it-->
 
