@@ -31,16 +31,15 @@ Thank you for considering contributing to the "Ideas for the Weekend - Python Ed
 
 ## What my Contribution should look like
 
-- Make sure if you're adding a new idea it is within the Ideas folder.
-- It should have its own folder with the idea as title
-- The idea should be detailed in the README.md of that folder.
+- Make sure if you're adding a new idea it is within the Tabulation on the README.md.
+- Make sure the project you had mentioned is possible to make with python in respective to its difficulty
   
 
 ## Guidelines for Contribution
 - Ensure that your contribution aligns with the goal of the repository.
 - Provide a clear and concise title and description for your project idea.
-- Include any necessary documentation or instructions for the project.
-- Test your project idea to ensure it works as expected.
+- Include any necessary documentation or instructions for the project as the surce.
+- It would be better if you had worked on the project, which might help in rating the difficulty.
 
 ## Code of Conduct
 Please note that this project is released with a Contributor [Code of Conduct](CODE_OF_CODUCT.md). By participating in this project, you agree to abide by its terms.
