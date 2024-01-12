@@ -42,7 +42,7 @@ Thank you for considering contributing to the "Ideas for the Weekend - Python Ed
 - It would be better if you had worked on the project, which might help in rating the difficulty.
 
 ## Code of Conduct
-Please note that this project is released with a Contributor [Code of Conduct](CODE_OF_CODUCT.md). By participating in this project, you agree to abide by its terms.
+Please note that this project is released with a Contributor [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
 
 ## Questions and Assistance
 If you have questions or need assistance, feel free to reach out to the repository maintainer, Yuhesh, by creating an issue or contacting through [yuheshpandian@gmail.com](mailto:yuheshpandian@gmail.com).
