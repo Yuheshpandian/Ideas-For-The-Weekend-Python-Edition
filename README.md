@@ -32,7 +32,7 @@ The primary goal of the **"Ideas for the Weekend - Python Edition"** repository 
 | # | Idea | Description | Difficulty |
 |:---:|:---:|:---:|:---:|
 | 1 | [Unit Convertor](Ideas/Unit_Convertor) | A python script to convert mathematical units into another unit. | 🟢 |
-| 2 | Madlibs | Mad Libs is a word game where one player prompts another for a list of words to substitute for blanks in a story| 🟢 |
+| 2 | [Madlibs](Ideas/Madlibs/) | Mad Libs is a word game where one player prompts another for a list of words to substitute for blanks in a story| 🟢 |
 | 3 | Tic Tac Toe | A game that we played during school days. | 🟢 |
 
 
