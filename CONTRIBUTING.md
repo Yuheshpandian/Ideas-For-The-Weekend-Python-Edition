@@ -31,8 +31,9 @@ Thank you for considering contributing to the "Ideas for the Weekend - Python Ed
 
 ## What my Contribution should look like
 
-- Make sure if you're adding a new idea it is within the Tabulation on the README.md.
-- Make sure the project you had mentioned is possible to make with python in respective to its difficulty
+- Make sure if you're adding a new idea, it should be inside the ideas folder , within the fokder with the idea's name.
+- There add details about you idea in the README.md file.
+- Make sure you are following the metioned format
   
 
 ## Guidelines for Contribution
