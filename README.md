@@ -29,11 +29,11 @@ The primary goal of the **"Ideas for the Weekend - Python Edition"** repository 
 
 <!-- Here # is the index no, Idea column should have the idea title with link to the idea folder in Ideas folder of this Repository, Category column has the category of idea/projets like web, cli, ai etc...-->
 
-| # | Idea | Description | Category | Source | Difficulty |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | Unit Convertor | A python script to convert mathematical units into another one within fraction of seconds, as no one likes to do those . This might either be terminal based application or a GUI based application.  | Script | [Youtube Video](https://youtu.be/jtM9RLAENVE?feature=shared) | 🟢 |
-| 2 | Madlibs | Mad Libs (a play on ad lib, from Latin ad libitum - as you wish) is a word game where one player prompts another for a list of words to substitute for blanks in a story| Game | [Web Documentation](https://pythonscholar.com/python-projects/mad-libs-game-in-python/) | 🟢 |
-| 3 | Tic Tac Toe | A game that we played during school days. | Game | [Web Documentation](https://www.c-sharpcorner.com/UploadFile/75a48f/tic-tac-toe-game-in-python/) | 🟢 |
+| # | Idea | Description | Difficulty |
+|:---:|:---:|:---:|:---:|
+| 1 | Unit Convertor | A python script to convert mathematical units into another unit. | 🟢 |
+| 2 | Madlibs | Mad Libs is a word game where one player prompts another for a list of words to substitute for blanks in a story| 🟢 |
+| 3 | Tic Tac Toe | A game that we played during school days. | 🟢 |
 
 
 
