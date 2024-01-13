@@ -21,6 +21,12 @@ The primary goal of the **"Ideas for the Weekend - Python Edition"** repository 
 ---
 ## Fascinating Project Ideas
 
+<div align="center">
+
+`DIFFICULTY LEVELS: Easy - 🟢 , Medium - 🟡 , Hard - 🔴`
+
+</div>
+
 <!-- Here # is the index no, Idea column should have the idea title with link to the idea folder in Ideas folder of this Repository, Category column has the category of idea/projets like web, cli, ai etc...-->
 
 | # | Idea | Description | Category | Source | Difficulty |
@@ -29,11 +35,7 @@ The primary goal of the **"Ideas for the Weekend - Python Edition"** repository 
 | 2 | Madlibs | Mad Libs (a play on ad lib, from Latin ad libitum - as you wish) is a word game where one player prompts another for a list of words to substitute for blanks in a story| Game | [Web Documentation](https://pythonscholar.com/python-projects/mad-libs-game-in-python/) | 🟢 |
 | 3 | Tic Tac Toe | A game that we played during school days. | Game | [Web Documentation](https://www.c-sharpcorner.com/UploadFile/75a48f/tic-tac-toe-game-in-python/) | 🟢 |
 
-<div align="center">
 
-[**Difficulty Levels: Easy - 🟢 , Medium - 🟡 , Hard - 🔴**]
-
-</div>
 
 <!--Idea should have the project idea, Category should have the category of the project(eg cli, web, etc), Source should have the source/reference link to build it-->
 
