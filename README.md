@@ -4,6 +4,18 @@
 # Ideas for the Weekend - Python Edition
 Welcome to _"Ideas for the Weekend - Python Edition"_ repository! Here, you'll find a curated list of interesting and diverse `Python` project ideas to spark your creativity and keep you engaged over the weekend. Whether you're a beginner looking to hone your skills or an experienced developer seeking a fun challenge, there's something for everyone. Feel free to explore, modify, and expand upon these project ideas. The goal is to encourage learning and experimentation while having fun with Python programming.
 
+![GitHub contributors](https://img.shields.io/github/contributors/Yuheshpandian/Ideas-For-The-Weekend-Python-edition?style=for-the-badge)
+![GitHub Discussions](https://img.shields.io/github/discussions/Yuheshpandian/Ideas-For-The-Weekend-Python-Edition?style=for-the-badge)
+![GitHub repo file count (file extension)](https://img.shields.io/github/directory-file-count/Yuheshpandian/Ideas-For-The-Weekend-Python-Edition/Ideas?style=for-the-badge&label=Ideas&color=yellow)
+![GitHub Repo stars](https://img.shields.io/github/stars/Yuheshpandian/Ideas-For-The-Weekend-Python-Edition?style=for-the-badge&color=hsl(0%2C0%2C255))
+![GitHub forks](https://img.shields.io/github/forks/Yuheshpandian/Ideas-For-The-Weekend-Python-Edition?style=for-the-badge&color=orange)
+
+
+
+
+
+
+
 <div align="center">
 
 | **Table Of Contents** |
