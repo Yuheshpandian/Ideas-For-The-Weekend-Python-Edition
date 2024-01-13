@@ -4,6 +4,10 @@
 # Ideas for the Weekend - Python Edition
 Welcome to _"Ideas for the Weekend - Python Edition"_ repository! Here, you'll find a curated list of interesting and diverse `Python` project ideas to spark your creativity and keep you engaged over the weekend. Whether you're a beginner looking to hone your skills or an experienced developer seeking a fun challenge, there's something for everyone. Feel free to explore, modify, and expand upon these project ideas. The goal is to encourage learning and experimentation while having fun with Python programming.
 
+| **Table Of Contents** |
+| :-------------------: |
+| [Our Goal](#-What's-Our-Goal)
+
 ## What's Our Goal
 
 <!-- To create a learning platform of python in your comfort zone.-->
