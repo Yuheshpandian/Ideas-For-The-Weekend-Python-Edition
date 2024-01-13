@@ -1,6 +1,6 @@
 # Python Unit Converter
 ## Overview
-A `unit converter`` is a program that facilitates the conversion of values between different **units of measurement**. This Python project provides a basic framework for creating a simple unit converter with various features.
+A `unit converter` is a program that facilitates the conversion of values between different **units of measurement**. This Python project provides a basic framework for creating a simple unit converter with various features.
 
 ## Requirements
 
@@ -61,4 +61,4 @@ if __name__ == "__main__":
 You could even take this project further by adding more units for to convert
 
 
-Finally The only thing left is to run you python...
+Finally The only thing left is to run you python...You could even take this further by converting it into a GUI using Tkinter or Kivy...
