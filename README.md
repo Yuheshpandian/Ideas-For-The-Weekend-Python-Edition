@@ -6,7 +6,7 @@ Welcome to _"Ideas for the Weekend - Python Edition"_ repository! Here, you'll f
 
 | **Table Of Contents** |
 | :-------------------: |
-| [Our Goal](#-whats-our-goal)
+| [Our Goal](https://github.com/Yuheshpandian/Ideas-For-The-Weekend-Python-Edition/blob/main/README.md#whats-our-goal)
 
 ## What's Our Goal
 
