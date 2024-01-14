@@ -20,8 +20,8 @@ Welcome to _"Ideas for the Weekend - Python Edition"_ repository! Here, you'll f
 
 | **Table Of Contents** |
 | :-------------------: |
-| [Our Goal](#whats-our-goal) |
-| [Project Ideas](#fascinating-project-ideas)|
+| [Our Goal](#-whats-our-goal) |
+| [Project Ideas](#-fascinating-project-ideas)|
 | [License](#-license) |
 | [Contribution](#-contibution) |
 
@@ -54,7 +54,7 @@ The primary goal of the **"Ideas for the Weekend - Python Edition"** repository 
 |:---:|:---:|:---:|:---:|
 | 1 | [Unit Convertor](Ideas/Unit_Convertor) | A python script to convert mathematical units into another unit. | Script |
 | 2 | [Madlibs](Ideas/Madlibs/) | Mad Libs is a word game where one player prompts another for a list of words to substitute for blanks in a story| Game |
-| 3 | Tic Tac Toe | A game that we played during school days. | Game |
+| 3 | [Tic Tac Toe](Ideas/Tic_Tac_Toe) | A game that we played during school days. | Game |
 
 
 ### **INTERMEDIATE**
