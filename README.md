@@ -102,6 +102,7 @@ Contributions are welcomed! If you have a cool Python project idea, please submi
 
 [Go Back To Top⬆️](#ideas-for-the-weekend---python-edition)
 
+---
 
 <div align="center">Made with ❤️ by Yuhesh</div>
 
