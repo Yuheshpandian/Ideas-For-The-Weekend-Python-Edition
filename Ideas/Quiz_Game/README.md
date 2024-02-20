@@ -18,7 +18,7 @@ Follow these steps to create the Python Quiz Game project:
 3. Define the structure of the quiz game, including functions for generating questions, presenting them to the user, and evaluating their answers.
 
 ```python
-import random
+
 
 def generate_question():
     # Generate a question and answer options
