@@ -64,6 +64,8 @@ The primary goal of the **"Ideas for the Weekend - Python Edition"** repository 
 | 1 | [Unit Convertor](Ideas/Unit_Convertor) | A python script to convert mathematical units into another unit. | Script |
 | 2 | [Madlibs](Ideas/Madlibs/) | Mad Libs is a word game where one player prompts another for a list of words to substitute for blanks in a story| Game |
 | 3 | [Tic Tac Toe](Ideas/Tic_Tac_Toe) | A game that we played during school days. | Game |
+| 4 | [Quiz Game](Ideas/Quiz_Game) | A terminal based quiz game that prints the result at the end |
+
 
 
 ### **INTERMEDIATE**
