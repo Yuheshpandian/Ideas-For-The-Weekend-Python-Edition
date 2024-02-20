@@ -7,7 +7,7 @@ This Python Quiz Game project is designed to provide an interactive way for user
 To run the Python Quiz Game project, you need the following:
 
 - Python 3.x installed on your system
-- The `random` module (usually included with Python installations)
+- The `random` module (usually included with Python installations) !Optional 
 - A text editor or integrated development environment (IDE) for Python coding
 
 ## How to Build
