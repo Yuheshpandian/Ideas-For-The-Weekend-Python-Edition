@@ -56,5 +56,5 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-5. Test each component of the game to ensure they work as expected.
+5. Test each component of the game to ensure they work as expected, if everything works fine, then you can make it visually appealing using the library *Rich*.
 6. Once satisfied with the functionality, you can optionally add more features such as a scoring system, a timer, or a graphical user interface (GUI) to enhance the user experience.
